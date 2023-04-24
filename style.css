@@ -28,12 +28,12 @@ body{
 
 .text h3{
     color: #fff;
-    font-size: 15px;
+    font-size: 50px;
 }
 
 .text h1{
     color: #fff;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 .text span{
@@ -42,7 +42,7 @@ body{
 
 .text p{
     color: #fff;
-    font-size: 10px;
+    font-size: 30px;
     font-weight: 300;
     margin-top: 10px;
 }
